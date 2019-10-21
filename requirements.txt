@@ -54,7 +54,7 @@ SQLAlchemy==1.2.15
 urllib3==1.24.1
 vine==1.1.4
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 Whoosh==2.7.4
 wrapt==1.10.11
 WTForms==2.2.1
